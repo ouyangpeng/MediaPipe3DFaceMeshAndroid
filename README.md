@@ -6,5 +6,7 @@ FaceMesh官方博客介绍：https://google.github.io/mediapipe/solutions/face_m
 
 GitHub对应的原始项目：https://github.com/google/mediapipe/tree/master/mediapipe/examples/android/solutions/facemesh
 
+改造后的java项目： https://github.com/ouyangpeng/MediapipeSolutionsExamples
+
 
 https://ouyangpeng.blog.csdn.net/article/details/126717537
